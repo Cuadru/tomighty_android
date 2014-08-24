@@ -12,7 +12,7 @@ public class BroadcastReceiver extends WakefulBroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
 
         Intent service = new Intent(context, BackgroundListenerService.class);
-        startWakefulService(context, intent);
+        startWakefulService(context, service);
     }
 
 }

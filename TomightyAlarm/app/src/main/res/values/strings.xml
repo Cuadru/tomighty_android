@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TomightyAlarm</string>
-    <string name="service_notification">Timer stopped</string>
+    <string name="service_notification">Tomighty</string>
     <string name="service_notification_success">Timer stopped succeeded</string>
     <string name="service_notification_failed">Timer stopped failed</string>
     <string name="action_settings">Settings</string>
