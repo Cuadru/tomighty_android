@@ -23,6 +23,7 @@
         </activity>
         <service android:name=".BackgroundListenerService"
             android:exported="false" />
+        <receiver android:name=".BroadcastReceiver" />
     </application>
 
 </manifest>
